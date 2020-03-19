@@ -11,6 +11,10 @@ class Book
   def auther=(auther)
     @auther = auther
   end
+  
+  def auther
+    @auther
+  end
 
 end
 
